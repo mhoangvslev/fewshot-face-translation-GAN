@@ -1,6 +1,6 @@
-from keras.models import Model
-from keras.layers import *
-from keras.applications import *
+from tensorflow.keras.models import Model
+from tensorflow.keras.layers import *
+from tensorflow.keras.applications import *
 
 from .nn_blocks import *
 

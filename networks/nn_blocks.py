@@ -1,5 +1,5 @@
-from keras.layers import *
-from keras.layers.advanced_activations import LeakyReLU
+from tensorflow.keras.layers import *
+from tensorflow.keras.layers.advanced_activations import LeakyReLU
 import tensorflow as tf
 
 from networks.instance_normalization import InstanceNormalization

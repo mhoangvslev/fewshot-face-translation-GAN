@@ -1,6 +1,6 @@
-from keras.models import Model
-from keras.layers import *
-from keras.layers.advanced_activations import LeakyReLU
+from tensorflow.keras.models import Model
+from tensorflow.keras.layers import *
+from tensorflow.keras.layers.advanced_activations import LeakyReLU
 
 from .nn_blocks import *
 
