@@ -1,6 +1,6 @@
 from tensorflow.keras.engine import Layer, InputSpec
-from keras import initializers, regularizers, constraints
-from keras import backend as K
+from tensorflow.keras import initializers, regularizers, constraints
+from tensorflow.keras import backend as K
 from tensorflow.keras.utils.generic_utils import get_custom_objects
 
 import numpy as np

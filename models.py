@@ -2,7 +2,7 @@ import cv2
 import os
 import numpy as np
 from tensorflow.keras.layers import Input
-from keras import backend as K
+from tensorflow.keras import backend as K
 
 import networks.generator as gen
 
